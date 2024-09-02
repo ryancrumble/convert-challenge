@@ -1,0 +1,242 @@
+{
+  "products": [
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "price": 8.99,
+      "discountPercentage": 9.57,
+      "rating": 2.88,
+      "stock": 13,
+      "tags": [
+        "pet supplies",
+        "cat food"
+      ],
+      "sku": "C3F8QN6O",
+      "weight": 9,
+      "dimensions": {
+        "width": 15.4,
+        "height": 13.97,
+        "depth": 25.13
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aurora Barnes",
+          "reviewerEmail": "aurora.barnes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ellie Stewart",
+          "reviewerEmail": "ellie.stewart@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 48,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "5503491330693",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+    },
+    {
+      "id": 22,
+      "title": "Dog Food",
+      "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+      "category": "groceries",
+      "price": 10.99,
+      "discountPercentage": 18.15,
+      "rating": 2.74,
+      "stock": 40,
+      "tags": [
+        "pet supplies",
+        "dog food"
+      ],
+      "sku": "A6QRCH37",
+      "weight": 2,
+      "dimensions": {
+        "width": 29.39,
+        "height": 29.77,
+        "depth": 20.54
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Alexander Jones",
+          "reviewerEmail": "alexander.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 29,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7957222289508",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png"
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+      "category": "groceries",
+      "price": 6.99,
+      "discountPercentage": 1.91,
+      "rating": 3.5,
+      "stock": 25,
+      "tags": [
+        "condiments"
+      ],
+      "sku": "BTBNIIOU",
+      "weight": 9,
+      "dimensions": {
+        "width": 26.53,
+        "height": 27.11,
+        "depth": 6.63
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nicholas Bailey",
+          "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Gabriel Hayes",
+          "reviewerEmail": "gabriel.hayes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "James Garcia",
+          "reviewerEmail": "james.garcia@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0668665656044",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
+    },
+    {
+      "id": 53,
+      "title": "Chopping Board",
+      "description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+      "category": "kitchen-accessories",
+      "price": 12.99,
+      "discountPercentage": 17.72,
+      "rating": 4.82,
+      "stock": 53,
+      "tags": [
+        "kitchen tools",
+        "cutting boards"
+      ],
+      "sku": "B7MZ3JGK",
+      "weight": 3,
+      "dimensions": {
+        "width": 24.38,
+        "height": 26.51,
+        "depth": 6.93
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.621Z",
+          "reviewerName": "Emma Miller",
+          "reviewerEmail": "emma.miller@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.621Z",
+          "reviewerName": "Nora Mills",
+          "reviewerEmail": "nora.mills@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.621Z",
+          "reviewerName": "Evelyn Gonzalez",
+          "reviewerEmail": "evelyn.gonzalez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 9,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.621Z",
+        "updatedAt": "2024-05-23T08:56:21.621Z",
+        "barcode": "1812405979802",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/thumbnail.png"
+    }
+  ],
+  "total": 11,
+  "skip": 0,
+  "limit": 4
+}
